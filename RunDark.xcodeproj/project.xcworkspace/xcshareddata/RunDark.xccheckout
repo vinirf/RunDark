@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>29878EDE-F05B-48B2-BBA6-B2EF2264A738</string>
+	<key>IDESourceControlProjectName</key>
+	<string>RunDark</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>75878807-5ABB-4DCD-B04B-79524F74F055</key>
+		<string>https://github.com/vinirf/RunDark.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>RunDark.xcodeproj/project.xcworkspace</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>75878807-5ABB-4DCD-B04B-79524F74F055</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/vinirf/RunDark.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>110</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>75878807-5ABB-4DCD-B04B-79524F74F055</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>75878807-5ABB-4DCD-B04B-79524F74F055</string>
+			<key>IDESourceControlWCCName</key>
+			<string>RunDark</string>
+		</dict>
+	</array>
+</dict>
+</plist>
